@@ -7,6 +7,7 @@ Public Houdini Digital Asset (HDA) collection by AJ Haworth.
 ### [Immersive Optimization Toolkit](./wwdc-optimization/)
 A modular toolkit for real-time asset optimization in immersive environments.
 16 HDAs for geometry optimization, visibility culling, UV projection, and more.
+Re-hosted from [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2025/305/) (WWDC25)
 
 ## Installation
 

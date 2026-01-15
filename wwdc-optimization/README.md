@@ -2,7 +2,7 @@
 
 **A modular toolkit for real-time asset optimization in immersive environments — built entirely in Houdini.**
 
-Based on [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2025/305/) (WWDC25)
+Re-hosted from [Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2025/305/) (WWDC25)
 
 This toolkit provides a suite of **procedural Houdini Digital Assets (HDAs)** designed to automate and streamline the preparation of 3D assets for **real-time immersive experiences**. The toolkit enables technical artists and developers to optimize geometry and UVs for real-time performance while preserving the fidelity of offline-quality renders.
 
