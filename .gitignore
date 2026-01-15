@@ -1,0 +1,4 @@
+.DS_Store
+*.hip.backup*
+*.hda.backup*
+backup/
